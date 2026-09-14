@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessTheNumber_CortezAngel</string>
+    <string name="tittle_app">The Eye</string>
+    <string name="guessing_placeholder">Tap on generate to start</string>
+    <string name="btn_dwn">Down</string>
+    <string name="btn_up">Up</string>
+    <string name="btn_generate">Generate</string>
+    <string name="btn_guessed">Guessed</string>
+</resources>
